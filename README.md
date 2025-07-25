@@ -1,5 +1,4 @@
-![SPRAI Logo](logotipo.png)
-
+![SPRAI Logo](https://github.com/Alanwactavski89/SPRAI-Coin/blob/main/logo.png?raw=true)
 
 # 🌱 SPRAI Coin
 
@@ -29,8 +28,8 @@ SPRAI is a meme coin with a purpose — combining the power of the blockchain wi
 
 ## 🛒 How to Buy
 
-- 🥞 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)
-- 🔒 [View Liquidity Lock (Mudra)](https://mudra.website/?certificate=yes&type=lock&chain=bsc&token=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)
+- 🥞 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)  
+- 🔒 [View Liquidity Lock (Mudra)](https://mudra.website/?certificate=yes&type=0&lp=0x98fba4342f42dd1f629908f330ebce1b4f4a51f5)
 
 ---
 
@@ -38,28 +37,28 @@ SPRAI is a meme coin with a purpose — combining the power of the blockchain wi
 
 We aim to:
 
-- Support **eco-friendly projects** and NGOs
-- Promote **digital literacy** and blockchain education
-- Incentivize tree planting through our **"Plant and Earn SPRAI"** campaign
-- Build a community-driven, impact-focused crypto brand
+- Support **eco-friendly projects** and NGOs  
+- Promote **digital literacy** and blockchain education  
+- Encourage tree planting with our **"Plant and Earn SPRAI"** campaign  
+- Build a community-driven, impact-focused crypto brand  
 
 ---
 
 ## 📄 Whitepaper
 
-- [📘 View our Whitepaper](link-do-whitepaper)
+- [📘 View our Whitepaper](https://github.com/Alanwactavski89/SPRAI-Coin/blob/main/Whitepaper_SPRAI_Token.pdf)
 
 ---
 
 ## 📢 Social Media
 
 - 🌐 [Website](https://spraicoin.net)  
-- 📸 [Instagram](https://instagram.com/spraicoin)    
+- 📸 [Instagram](https://instagram.com/sprai.token)  
 - ✉️ Email: support@spraicoin.net
 
 ---
 
 ## 🤝 Join the Movement
+Be part of a green revolution powered by memes and blockchain.
 
-Be a part of the green revolution in crypto. SPRAI is not just a meme — it’s a mission. Let’s grow together 🌱
 
