@@ -46,7 +46,8 @@ We aim to:
 
 ## 📄 Whitepaper
 
-- [📘 View our Whitepaper](https://github.com/Alanwactavski89/SPRAI-Coin/blob/main/Whitepaper_SPRAI_Token.pdf)
+- [📘 View our Whitepaper](https://github.com/Alanwactavski89/SPRAI-Coin/raw/main/Whitepaper_SPRAI_Token.pdf)
+
 
 ---
 
